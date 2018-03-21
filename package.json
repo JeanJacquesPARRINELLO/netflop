@@ -1,0 +1,8 @@
+{
+    "name": "netflop.my",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Jean-Jacques PARRINELLO <jj.parrinello@free.fr>",
+    "contributors": [],
+    "dependencies": {}
+}

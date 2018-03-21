@@ -1,0 +1,149 @@
+<?xml version = "1.0" encoding="UTF-8" standalone="yes" ?>
+<netflop>
+	<films>
+		<film id="1">
+			<titre>Hunger Games</titre>
+			<image src="../img/films/hunger_games.jpg" />
+			<synopsis>Chaque année, dans les ruines de ce qui était autrefois l'Amérique du Nord, le Capitole, l'impitoyable capitale de la nation de Panem, oblige chacun de ses douze districts à envoyer un garçon et une fille - les "Tributs" - concourir aux Hunger Games. A la fois sanction contre la population pour s'être rebellée et stratégie d'intimidation de la part du gouvernement, les Hunger Games sont un événement télévisé national au cours duquel les tributs doivent s'affronter jusqu'à la mort. L'unique survivant est déclaré vainqueur.
+La jeune Katniss, 16 ans, se porte volontaire pour prendre la place de sa jeune sœur dans la compétition. Elle se retrouve face à des adversaires surentraînés qui se sont préparés toute leur vie. Elle a pour seuls atouts son instinct et un mentor, Haymitch Abernathy, qui gagna les Hunger Games il y a des années mais n'est plus désormais qu'une épave alcoolique. Pour espérer pouvoir revenir un jour chez elle, Katniss va devoir, une fois dans l'arène, faire des choix impossibles entre la survie et son humanité, entre la vie et l'amour...</synopsis>
+			<genres>
+				<genre>Action</genre>
+				<genre>Science-Fiction</genre>
+				<genre>Drame</genre>
+			</genres>
+			<realisateur> Gary Ross</realisateur>
+			<annee_sortie>2012</annee_sortie>
+			<acteurs>
+				<acteur id="1">Jennifer Lawrence</acteur>
+				<acteur id="2">Josh Hutcherson</acteur>
+				<acteur id="3">Liam Hemsworth</acteur>
+			</acteurs>
+		<film>
+
+
+		<film id="1">
+			<titre>Le Labyrinthe</titre>
+			<image src="../img/films/labyrinthe.jpg" />
+			<synopsis>Quand Thomas reprend connaissance, il est pris au piège avec un groupe d’autres garçons dans un labyrinthe géant dont le plan est modifié chaque nuit. Il n’a plus aucun souvenir du monde extérieur, à part d’étranges rêves à propos d’une mystérieuse organisation appelée W.C.K.D. En reliant certains fragments de son passé, avec des indices qu’il découvre au sein du labyrinthe, Thomas espère trouver un moyen de s’en échapper. </synopsis>
+			<genres>
+				<genre>Action</genre>
+				<genre>Science-Fiction</genre>
+				<genre>Aventure</genre>
+			</genres>
+			<realisateur>Wes BALL</realisateur>
+			<annee_sortie>2014</annee_sortie>
+			<acteurs>
+				<acteur id="1">Dylan O'Brien</acteur>
+				<acteur id="2">Aml Ameen</acteur>
+				<acteur id="3">Will Poulter</acteur>
+			</acteurs>
+		<film>
+
+
+		<film id="1">
+			<titre>Tomb Raider</titre>
+			<image src="../img/films/Tomb_Raider.jpg" />
+			<synopsis>Lara Croft, 21 ans, n'a ni projet, ni ambition : fille d'un explorateur excentrique porté disparu depuis sept ans, cette jeune femme rebelle et indépendante refuse de reprendre l'empire de son père. Convaincue qu'il n'est pas mort, elle met le cap sur la destination où son père a été vu pour la dernière fois : la tombe légendaire d'une île mythique au large du Japon. Mais le voyage se révèle des plus périlleux et il lui faudra affronter d'innombrables ennemis et repousser ses propres limites pour devenir "Tomb Raider"… </synopsis>
+			<genres>
+				<genre>Action</genre>
+				<genre>Aventure</genre>
+			</genres>
+			<realisateur>Roar Uthaug </realisateur>
+			<annee_sortie>2018</annee_sortie>
+			<acteurs>
+				<acteur id="1">Alicia Vikander</acteur>
+				<acteur id="2">Dominic West</acteur>
+				<acteur id="2">Walton Goggins</acteur>
+			</acteurs>
+		<film>
+	</films>
+
+	<series>
+		<serie id="1">
+			<titre>The Blacklist</titre>
+			<image src="../img/series/The-Blacklist-148x220.jpg" />
+			<synopsis>Raymond « Red » Reddington, l’un des fugitifs les plus recherchés par le FBI,
+                        se rend en personne au quartier général du FBI à Washington. Il affirme avoir les mêmes
+                        intérêts que le FBI : faire tomber des criminels dangereux et des terroristes. Reddington
+                        coopérera, mais insiste pour ne parler qu’à Elizabeth Keen, une profileuse inexpérimentée
+                        du FBI. Keen s’interroge sur l’intérêt soudain que Reddington lui porte, bien qu’il soutienne
+                        que Keen est très spéciale. Après que le FBI a fait tomber un terroriste sur lequel il a fourni
+                        des informations, Reddington révèle que ce terroriste n’est que le premier de beaucoup d’autres à venir :
+                        durant les deux dernières décennies, il a fait une liste des criminels et terroristes qu'il croit introuvable
+                        par le FBI parce que ce dernier ignorait leur existence et que ce sont les plus importants. Reddington
+                        l’appelle « La Liste noire » (« The Blacklist »).</synopsis>
+			<genre>Policier</genre>
+			<createurs>
+				<createur>John Eisendrath</createur>
+				<createur>Alex Kurtzman</createur>
+			</createurs>
+			<annee_sortie></annee_sortie>
+			<acteurs>
+				<acteur id="1">James SPADER</acteur>
+				<acteur id="2">Megan BOONE</acteur>
+				<acteur id="3">Diego KLATTENOFF</acteur>
+			</acteurs>
+		<serie>
+
+
+
+		<serie id="2">
+			<titre>Hawaï Five-0</titre>
+			<image src="../img/series/Hawaii-Five-0-2010.jpg" />
+			<synopsis>Le détective Steve McGarrett se rend à Oahu pour enquêter sur l'assassinat de son père. Une fois sur place, le gouverneur le persuade de rester et rejoindre l'unité des forces spéciales, qui combat le crime à Hawaï. </synopsis>
+			<genre>Policier</genre>
+			<createurs>
+				<createur>Peter M. Lenkov</createur>
+				<createur>Alex Kurtzman</createur>
+			</createurs>
+			<annee_creation>2010</annee_creation>
+			<acteurs>
+				<acteur id="1">Alex O'Loughlin</acteur>
+				<acteur id="2">Scott Caan</acteur>
+				<acteur id="3">Chi McBride</acteur>
+			</acteurs>
+		<serie>
+
+
+		<serie id="3">
+			<titre>Joséphine ange gardien</titre>
+			<image src="../img/series/Joséphine-ange-gardien1-148x220.jpg" />
+			<synopsis>Joséphine est un ange gardien très particulier, qui descend sur Terre pour aider les gens à surmonter leurs problèmes quotidiens.</synopsis>
+			<genres>
+				<genre>Comédie</genre>
+				<genre>Fiction</genre>
+			</genres>
+			<createurs>
+				<createur>Philippe Niang</createur>
+				<createur>Michel Lengliney</createur>
+			</createurs>
+			<annee_sortie>1997</annee_sortie>
+			<acteurs>
+				<acteur id="1">Mimie Maty</acteur>
+			</acteurs>
+		<serie>
+	</series>
+<!--
+	<documentaires>
+		<documentaire id="1">
+			<titre></titre>
+			<image src="../img/" />
+			<synopsis></synopsis>
+			<genre></genre>
+			<realisateur></realisateur>
+			<annee_sortie></annee_sortie>
+		<documentaire>
+	<documentaires>
+
+	<mangas>
+		<manga id="1">
+			<titre>The Blacklist</titre>
+			<image src="" />
+			<synopsis></synopsis>
+			<genre></genre>
+			<realisateur></realisateur>
+			<annee_sortie></annee_sortie>
+		<manga>
+	</mangas>
+-->
+</netflop>
